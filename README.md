@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 <p align="center">
   <a href="https://nativewind.dev" target="_blank">
     <img src="https://nativewind.dev/img/logo.svg" alt="Tailwind CSS" width="70" height="70">
